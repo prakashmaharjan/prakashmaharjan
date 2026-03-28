@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Mobile app development
 - 📫 How to reach me: ... prakashmaharjan.iosdev@gmail.com
 - 😄 Pronouns: ... He
-- ⚡ Fun fact: ... I am a music addict. I code with music on. :)
+- ⚡ Fun fact: ... I am extreme music lover. I code with music on. :)
 
 
 ### 📕 Latest Blog Posts
