@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+I am professional mobile application developer. Welcome to my professional github account.
 
 Here are some ideas to get you started:
 
