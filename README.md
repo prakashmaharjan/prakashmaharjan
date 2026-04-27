@@ -31,6 +31,22 @@ Here are some ideas to get you started:
     </tr>
 </table>
 
+<div align=left>
+<table>
+    <tr>
+        <td colspan="8">
+        <strong><samp>Other Skills:</samp></strong>
+        </td>
+    </tr>
+        <tr>
+        <td colspan="8">
+        <img src="https://img.icons8.com/color/480/000000/git.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/firebase.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/figma.png" width=50></a>
+        </td>
+    </tr>
+</table>
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
