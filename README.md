@@ -13,6 +13,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He
 - ⚡ Fun fact: ... I am extreme music lover. I code with music on. :)
 
+### Languages and Tools:
+
+<div align=left>
+<table>
+    <tr>
+        <td colspan="8">
+        <strong><samp>Main Skills:</samp></strong>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="8">
+        <img src="https://img.icons8.com/color/480/000000/swift.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/swift.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/swiftui.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/xcode.png" width=50></a>
+        </td>
+    </tr>
+</table>
 
 ### 📕 Latest Blog Posts
 
