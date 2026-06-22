@@ -1,60 +1,55 @@
-### Hi there 👋
+# Hi there 👋,
 
-I am professional mobile application developer. Welcome to my professional github account.
+🚀 I am Professional Mobile Application Developer (iOS & Cross-Platform)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile. I build scalable, performance-focused mobile applications with clean architecture and modern UI/UX practices.
 
-- 🔭 I’m currently working on ... App Development
-- 🌱 I’m currently learning ... SwiftUI, Flutter, Kotlin
-- 👯 I’m looking to collaborate on ... Freelancing Projects
-- 🤔 I’m looking for ... freelancing iOS app development projects / work from home
-- 💬 Ask me about ... Mobile app development
-- 📫 How to reach me: ... prakashmaharjan.iosdev@gmail.com
-- 😄 Pronouns: ... He
-- ⚡ Fun fact: ... I am extreme music lover. I code with music on. :)
+---
 
-### Languages and Tools:
+## 👨‍💻 About Me
 
-<div align=left>
-<table>
-    <tr>
-        <td colspan="8">
-        <strong><samp>Main Skills:</samp></strong>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="8">
-        <img src="https://img.icons8.com/color/480/000000/swift.png" width=50></a>
-        <img src="https://img.icons8.com/color/480/000000/swiftui.png" width=50></a>
-        <img src="https://img.icons8.com/color/480/000000/xcode.png" width=50></a>
-        </td>
-    </tr>
-</table>
+- 🔭 Currently working on: Mobile App Development (iOS & Flutter).
+- 🌱 Currently learning: SwiftUI, Flutter, Kotlin.
+- 👯 Open to collaboration on: Freelance & remote development projects.
+- 💼 Looking for: iOS / Flutter freelance opportunities (remote).
+- 💬 Ask me about: iOS Development, Swift, Flutter, App Architecture.
+- 📫 Contact: prakashmaharjan.iosdev@gmail.com
+- 😄 Pronouns: He/Him.
+- 🎧 Fun fact: I code better with music on 🎶.
 
-<div align=left>
-<table>
-    <tr>
-        <td colspan="8">
-        <strong><samp>Other Skills:</samp></strong>
-        </td>
-    </tr>
-        <tr>
-        <td colspan="8">
-        <img src="https://img.icons8.com/color/480/000000/git.png" width=50></a>
-        <img src="https://img.icons8.com/color/480/000000/firebase.png" width=50></a>
-        <img src="https://img.icons8.com/color/480/000000/figma.png" width=50></a>
-        </td>
-    </tr>
-</table>
+---
 
-### 📕 Latest Blog Posts
+## 🧰 Languages & Tools
 
-<!-- BLOG-POST-LIST:START -->
+### 💡 Main Skills
+
+<p align="left">
+  <img src="https://img.icons8.com/color/480/000000/swift.png" width="50"/>
+  <img src="https://img.icons8.com/color/480/000000/swiftui.png" width="50"/>
+  <img src="https://img.icons8.com/color/480/000000/xcode.png" width="50"/>
+  <img src="https://img.icons8.com/color/480/000000/flutter.png" width="50"/>
+  <img src="https://img.icons8.com/color/480/000000/kotlin.png" width="50"/>
+</p>
+
+### 🛠️ Other Tools
+
+<p align="left">
+  <img src="https://img.icons8.com/color/480/000000/git.png" width="50"/>
+  <img src="https://img.icons8.com/color/480/000000/firebase.png" width="50"/>
+  <img src="https://img.icons8.com/color/480/000000/figma.png" width="50"/>
+</p>
+
+---
+
+## 📝 Latest Blog Posts
+
 - [Creating Gradient Views in SwiftUI](https://prakash-maharjan.medium.com/gradient-views-in-swiftui-48b4835aaa82)
 - [Play Custom Push Notification Sound in iOS](https://medium.com/@prakash-maharjan/play-custom-push-notification-sound-ios-a767748a46)
-- [Wireless Debuging Xcode](https://medium.com/@prakash-maharjan/wireless-debugging-with-xcode-9-or-later-and-ios-11-or-later-5a06543ea167)
-<!-- BLOG-POST-LIST:END -->
+- [Wireless Debugging with Xcode](https://medium.com/@prakash-maharjan/wireless-debugging-with-xcode-9-or-later-and-ios-11-or-later-5a06543ea167)
 
-➡️ [more blog posts...](https://medium.com/@prakash-maharjan)
+➡️ [More articles on Medium](https://prakash-maharjan.medium.com)
+
+---
 
 
+⭐️ Thanks for visiting my profile!
