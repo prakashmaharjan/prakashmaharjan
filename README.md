@@ -1,6 +1,6 @@
 # Hi there 👋,
 
-🚀 I am Professional Mobile Application Developer (iOS & Cross-Platform)
+🚀 I am Professional Mobile Application Developer (iOS(Native) & Cross-Platform(Flutter))
 
 Welcome to my GitHub profile. I build scalable, performance-focused mobile applications with clean architecture and modern UI/UX practices.
 
